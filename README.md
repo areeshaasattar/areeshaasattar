@@ -109,8 +109,8 @@ Software Engineer & AI Developer with hands-on experience across freelance and f
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=areeshaasattar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeshaasattar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=areeshaasattar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
