@@ -18,7 +18,7 @@
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> About Me</h2>
+## About Me
 
 Software Engineer & AI Developer with hands-on experience across freelance and full-time roles. I build **scalable web applications**, **backend systems**, **REST APIs**, and **AI-powered automation** using Python, FastAPI, React.js, Next.js, and TypeScript.
 
@@ -30,7 +30,7 @@ Software Engineer & AI Developer with hands-on experience across freelance and f
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/wrench.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> Tech Stack</h2>
+## Tech Stack
 
 **Languages**
 
@@ -77,18 +77,18 @@ Software Engineer & AI Developer with hands-on experience across freelance and f
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> Featured Projects</h2>
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Nexa AI](https://github.com/areeshaasattar/Nexa-ai)** | AI voice meeting & video conferencing SaaS with real-time meetings and custom AI agents. Provider-agnostic LLM layer (OpenRouter, Gemini, Groq). | Next.js 16, React 19, TypeScript, tRPC, Better-Auth, Stream Video SDK, Drizzle ORM, Neon PostgreSQL |
+| **[Nexa AI](https://github.com/areeshaasattar/Nexa-ai.git)** | AI voice meeting & video conferencing SaaS with real-time meetings and custom AI agents. Provider-agnostic LLM layer (OpenRouter, Gemini, Groq). | Next.js 16, React 19, TypeScript, tRPC, Better-Auth, Stream Video SDK, Drizzle ORM, Neon PostgreSQL |
 | **[AI CRM Digital FTE](https://github.com/areeshaasattar/customer-support-fte-final)** | Multi-channel customer support automation (Gmail, WhatsApp, Web Forms) with an event-driven backend. | Python, FastAPI, OpenAI Agents SDK, Kafka, PostgreSQL, Docker, Kubernetes |
 | **[AI-Integrated Resume Builder](https://github.com/areeshaasattar/AI-Integrated-Resume-Builder)** | Resume builder powered by AI suggestions. | JavaScript |
 | **[Beauty Salon](https://github.com/areeshaasattar/beauty-salon)** | Salon booking and showcase web app. | TypeScript |
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/briefcase.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> Experience</h2>
+## Experience
 
 | Role | Company | Period |
 |---|---|---|
@@ -98,7 +98,7 @@ Software Engineer & AI Developer with hands-on experience across freelance and f
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/activity.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> GitHub Stats</h2>
+## GitHub Stats
 
 <div align="center">
 
@@ -111,9 +111,13 @@ Software Engineer & AI Developer with hands-on experience across freelance and f
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> Let's Connect</h2>
+## Let's Connect
 
-I'm open to collaborations, full stack and AI engineering opportunities, and interesting conversations about building things that scale. Reach me through any of the buttons at the top of this page.
+I'm open to collaborations, full stack and AI engineering opportunities, and interesting conversations about building things that scale.
+
+**Email:** [areesha21314@gmail.com](mailto:areesha21314@gmail.com)  
+**Portfolio:** [areeshasattardev.com](https://areeshasattardev.com)  
+**LinkedIn:** [areesha-sattar](https://linkedin.com/in/areesha-sattar/)
 
 <div align="center">
 
