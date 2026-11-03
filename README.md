@@ -1,16 +1,9 @@
-<!-- 
-  HOW TO USE:
-  1. Create a PUBLIC repo named exactly: areeshaasattar  (same as your username)
-  2. Tick "Add a README file", then replace its content with this file
-  3. Replace the TODO links in the Featured Projects section with your real repo URLs
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Areesha%20Sattar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Developer&descAlignY=58&descSize=20" alt="Areesha Sattar" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+scalable+web+apps+%26+REST+APIs;Crafting+Agentic+AI+%26+RAG+solutions;Full+Stack+Engineer+%40+PRAQEN;Based+in+Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+scalable+web+apps+%26+REST+APIs;Crafting+Agentic+AI+%26+RAG+solutions;Full+Stack+Engineer+%40+PRAQEN;Based+in+Karachi%2C+Pakistan" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,19 +18,19 @@
 
 ---
 
-## 👩‍💻 About Me
+<h2><img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> About Me</h2>
 
 Software Engineer & AI Developer with hands-on experience across freelance and full-time roles. I build **scalable web applications**, **backend systems**, **REST APIs**, and **AI-powered automation** using Python, FastAPI, React.js, Next.js, and TypeScript.
 
-- 🚀 Currently a **Full Stack Engineer at PRAQEN**, working on a live trading platform: REST APIs, authentication, wallet functionality, and blockchain-related systems
-- 🏥 Built **RAG-based healthcare AI agents** at NeuralHub, cutting query response time by **40%** and serving **8,000+** medical queries
-- ⚡ Helped push trading platform uptime to **99.9%** during high-volatility periods
-- 🎓 Completed the **Governor House Full Stack Development Program**; currently finishing the **AI Engineer** track
-- 🌱 Exploring Agentic AI workflows, OpenAI Agents SDK, and event-driven architectures
+- Currently a **Full Stack Engineer at PRAQEN**, working on a live trading platform: REST APIs, authentication, wallet functionality, and blockchain-related systems
+- Built **RAG-based healthcare AI agents** at NeuralHub, cutting query response time by **40%** and serving **8,000+** medical queries
+- Helped push trading platform uptime to **99.9%** during high-volatility periods
+- Completed the **Governor House Full Stack Development Program**; currently finishing the **AI Engineer** track
+- Exploring Agentic AI workflows, OpenAI Agents SDK, and event-driven architectures
 
 ---
 
-## 🛠️ Tech Stack
+<h2><img src="https://api.iconify.design/lucide/wrench.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> Tech Stack</h2>
 
 **Languages**
 
@@ -84,18 +77,18 @@ Software Engineer & AI Developer with hands-on experience across freelance and f
 
 ---
 
-## 🚀 Featured Projects
+<h2><img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> Featured Projects</h2>
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎥 **[Nexa AI](https://github.com/areeshaasattar/Nexa-ai.git)** | AI voice meeting & video conferencing SaaS with real-time meetings and custom AI agents. Provider-agnostic LLM layer (OpenRouter, Gemini, Groq). | Next.js 16, React 19, TypeScript, tRPC, Better-Auth, Stream Video SDK, Drizzle ORM, Neon PostgreSQL |
-| 🤖 **[AI CRM Digital FTE](https://github.com/areeshaasattar/customer-support-fte-final)** | Multi-channel customer support automation (Gmail, WhatsApp, Web Forms) with an event-driven backend. | Python, FastAPI, OpenAI Agents SDK, Kafka, PostgreSQL, Docker, Kubernetes |
-| 📄 **[AI-Integrated Resume Builder](https://github.com/areeshaasattar/AI-Integrated-Resume-Builder)** | Resume builder powered by AI suggestions. | JavaScript |
-| 💈 **[Beauty Salon](https://github.com/areeshaasattar/beauty-salon)** | Salon booking and showcase web app. | TypeScript |
+| **[Nexa AI](https://github.com/areeshaasattar/Nexa-ai)** | AI voice meeting & video conferencing SaaS with real-time meetings and custom AI agents. Provider-agnostic LLM layer (OpenRouter, Gemini, Groq). | Next.js 16, React 19, TypeScript, tRPC, Better-Auth, Stream Video SDK, Drizzle ORM, Neon PostgreSQL |
+| **[AI CRM Digital FTE](https://github.com/areeshaasattar/customer-support-fte-final)** | Multi-channel customer support automation (Gmail, WhatsApp, Web Forms) with an event-driven backend. | Python, FastAPI, OpenAI Agents SDK, Kafka, PostgreSQL, Docker, Kubernetes |
+| **[AI-Integrated Resume Builder](https://github.com/areeshaasattar/AI-Integrated-Resume-Builder)** | Resume builder powered by AI suggestions. | JavaScript |
+| **[Beauty Salon](https://github.com/areeshaasattar/beauty-salon)** | Salon booking and showcase web app. | TypeScript |
 
 ---
 
-## 💼 Experience
+<h2><img src="https://api.iconify.design/lucide/briefcase.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> Experience</h2>
 
 | Role | Company | Period |
 |---|---|---|
@@ -105,7 +98,7 @@ Software Engineer & AI Developer with hands-on experience across freelance and f
 
 ---
 
-## 📊 GitHub Stats
+<h2><img src="https://api.iconify.design/lucide/activity.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> GitHub Stats</h2>
 
 <div align="center">
 
@@ -118,13 +111,9 @@ Software Engineer & AI Developer with hands-on experience across freelance and f
 
 ---
 
-## 🤝 Let's Connect
+<h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> Let's Connect</h2>
 
-I'm open to collaborations, full stack and AI engineering opportunities, and interesting conversations about building things that scale.
-
-📫 **Email:** [areesha21314@gmail.com](mailto:areesha21314@gmail.com)
-🌐 **Portfolio:** [areeshasattardev.com](https://areeshasattardev.com)
-💼 **LinkedIn:** [areesha-sattar](https://linkedin.com/in/areesha-sattar/)
+I'm open to collaborations, full stack and AI engineering opportunities, and interesting conversations about building things that scale. Reach me through any of the buttons at the top of this page.
 
 <div align="center">
 
