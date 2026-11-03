@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-areeshasattardev.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://areeshasattardev.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-areeshasattardev.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://areeshasattardev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Areesha%20Sattar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/areesha-sattar/)
 [![Email](https://img.shields.io/badge/Email-areesha21314@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areesha21314@gmail.com)
 
