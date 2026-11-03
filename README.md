@@ -88,12 +88,10 @@ Software Engineer & AI Developer with hands-on experience across freelance and f
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎥 **[Nexa AI](https://github.com/areeshaasattar/REPLACE-WITH-REPO-NAME)** | AI voice meeting & video conferencing SaaS with real-time meetings and custom AI agents. Provider-agnostic LLM layer (OpenRouter, Gemini, Groq). | Next.js 16, React 19, TypeScript, tRPC, Better-Auth, Stream Video SDK, Drizzle ORM, Neon PostgreSQL |
-| 🤖 **[AI CRM Digital FTE](https://github.com/areeshaasattar/REPLACE-WITH-REPO-NAME)** | Multi-channel customer support automation (Gmail, WhatsApp, Web Forms) with an event-driven backend. | Python, FastAPI, OpenAI Agents SDK, Kafka, PostgreSQL, Docker, Kubernetes |
+| 🎥 **[Nexa AI](https://github.com/areeshaasattar/Nexa-ai.git)** | AI voice meeting & video conferencing SaaS with real-time meetings and custom AI agents. Provider-agnostic LLM layer (OpenRouter, Gemini, Groq). | Next.js 16, React 19, TypeScript, tRPC, Better-Auth, Stream Video SDK, Drizzle ORM, Neon PostgreSQL |
+| 🤖 **[AI CRM Digital FTE](https://github.com/areeshaasattar/customer-support-fte-final)** | Multi-channel customer support automation (Gmail, WhatsApp, Web Forms) with an event-driven backend. | Python, FastAPI, OpenAI Agents SDK, Kafka, PostgreSQL, Docker, Kubernetes |
 | 📄 **[AI-Integrated Resume Builder](https://github.com/areeshaasattar/AI-Integrated-Resume-Builder)** | Resume builder powered by AI suggestions. | JavaScript |
-| 🔐 **[Complete Authentication](https://github.com/areeshaasattar/Complete-authentication)** | Full authentication flow with secure token handling. | JavaScript, JWT |
 | 💈 **[Beauty Salon](https://github.com/areeshaasattar/beauty-salon)** | Salon booking and showcase web app. | TypeScript |
-| 🏦 **[Banking System](https://github.com/areeshaasattar/Banking-System)** | Banking application with account and transaction features. | JavaScript |
 
 ---
 
